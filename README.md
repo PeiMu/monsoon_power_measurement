@@ -2,7 +2,7 @@
 
 ### Equipment and Cable Connections
 Monsoon Power Monitor
-![[Pasted image 20230609122725.png]]
+![back view](Pasted_image_20230609122725.png)
 
 ### Software Pre-request
 https://github.com/msoon/PyMonsoon/tree/master
@@ -37,7 +37,7 @@ Mon.writeFlash(Hex)
 
 ### Measure Experiments
 Since the max voltage of `Mon.setVout()` is `4.55V`, we power the embedded board by laptop. One cable between power monitor and embedded board, another cable between power monitor and laptop.
-![[Pasted image 20230609122718.png]]
+![front view](Pasted_image_20230609122718.png)
 
 #### Run the experiments
 Run with `sudo`.
